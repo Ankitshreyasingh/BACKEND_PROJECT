@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Reliance Industries",
+    "sector": "Energy",
+    "liveprice": 2450.5,
+    "units": 10,
+    "avgbuyprice": 2300,
+    "currentvalue": 24505,
+    "change": 6.5
+  },
+  {
+    "id": 2,
+    "name": "Tata Consultancy Services",
+    "sector": "Information Technology",
+    "liveprice": 3800.75,
+    "units": 5,
+    "avgbuyprice": 3500,
+    "currentvalue": 19003.75,
+    "change": 8.6
+  },
+  {
+    "id": 3,
+    "name": "HDFC Bank",
+    "sector": "Financial Services",
+    "liveprice": 1650.25,
+    "units": 15,
+    "avgbuyprice": 1500,
+    "currentvalue": 24753.75,
+    "change": 10
+  },
+  {
+    "id": 4,
+    "name": "ICICI Bank",
+    "sector": "Financial Services",
+    "liveprice": 900.75,
+    "units": 25,
+    "avgbuyprice": 850,
+    "currentvalue": 22518.75,
+    "change": 5.8
+  }
+]

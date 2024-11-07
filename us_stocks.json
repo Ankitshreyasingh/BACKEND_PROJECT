@@ -1,0 +1,46 @@
+[
+  {
+    "id": 4,
+    "name": "Tesla Inc.",
+    "sector": "Automotive",
+    "liveprice": 700.45,
+    "units": 15,
+    "avgbuyprice": 650,
+    "currentvalue": 10506.75,
+    "change": 7.7,
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "name": "Microsoft Corporation",
+    "sector": "Technology",
+    "liveprice": 330.75,
+    "units": 30,
+    "avgbuyprice": 290,
+    "currentvalue": 9922.5,
+    "change": 13.9,
+    "priority": 2
+  },
+  {
+    "id": 1,
+    "name": "Apple Inc.",
+    "sector": "Technology",
+    "liveprice": 174.15,
+    "units": 50,
+    "avgbuyprice": 150,
+    "currentvalue": 8707.5,
+    "change": 16.1,
+    "priority": 3
+  },
+  {
+    "id": 3,
+    "name": "Amazon.com Inc.",
+    "sector": "Consumer Discretionary",
+    "liveprice": 145.3,
+    "units": 20,
+    "avgbuyprice": 130,
+    "currentvalue": 2906,
+    "change": 11.7,
+    "priority": 4
+  }
+]
